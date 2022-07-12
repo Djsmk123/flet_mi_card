@@ -8,7 +8,7 @@
 ```
 python3 main.py
 ```
-![img](https://imgur.com/yrmCkjh.png)
+![img](https://imgur.com/5qwYzHf.png)
 
 > For Tutorial read out 
   
